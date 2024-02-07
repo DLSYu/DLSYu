@@ -1,4 +1,7 @@
 # Hi! I am Hanz Patrick Yu
+
+# This is my school Github Account! 
+# To see my hobby account go here -> [slashZyro](https://github.com/slashZyro)
  
 ## About Me
 I am currently at my 3rd in De La Salle University, and I aspire to make games or do software engineering roles
