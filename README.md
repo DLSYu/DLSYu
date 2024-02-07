@@ -1,8 +1,5 @@
 # Hi! I am Hanz Patrick Yu
-
-
-
-## This is my school Github Account! 
+### This is my school Github Account! 
 To see my hobby account go here -> [slashZyro](https://github.com/slashZyro)
  
 ## About Me
