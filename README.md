@@ -10,5 +10,5 @@ I am currently at my 3rd in De La Salle University, and I aspire to make games o
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DLSYu)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Hanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLSYu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLSYu)](https://github.com/DLSYu/github-readme-stats)
+[![Hanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLSYu)](https://github.com/DLSYu/github-readme-stats)
