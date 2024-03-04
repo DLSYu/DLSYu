@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlsyu" alt="dlsyu" /></a> </p>
 
-- 👨‍💻 My favorite projects are available at [slashZyro.github.io](slashZyro.github.io)
+- 👨‍💻 My favorite projects are available at [slashZyro.github.io](https://slashZyro.github.io)
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1036nDH91pJqi6ZLANy-RY1JSaQFzN-0G-WU7T1FfGb4/edit?usp=sharing](https://docs.google.com/document/d/1036nDH91pJqi6ZLANy-RY1JSaQFzN-0G-WU7T1FfGb4/edit?usp=sharing)
 
