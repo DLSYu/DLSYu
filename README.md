@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanz Patrick Yu</h1>
 <h3 align="center">A computer science student aspiring to be a game developer</h3>
 
-<h4 align="center">This is my school account, for my creative account check here: [slashZyro](https://github.com/slashZyro)</h4>
+#### This is my school account, for my creative account check here: [slashZyro](https://github.com/slashZyro)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlsyu" alt="dlsyu" /></a> </p>
 
